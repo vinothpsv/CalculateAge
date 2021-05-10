@@ -1,0 +1,2 @@
+rootProject.name = "Vinoth AliveCor"
+include ':app'
